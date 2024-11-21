@@ -1,0 +1,20 @@
+﻿# 가상환경
+tensorflow_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 큰 파일
+*.pyd
+*.dll
+
+# IDE
+.vscode/
+.idea/
+
+# 기타
+.DS_Store
